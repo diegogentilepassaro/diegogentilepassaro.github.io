@@ -1,8 +1,8 @@
 ---
 layout: archive
-title:
 permalink: /cv/
 author_profile: true
+title: off
 ---
 
 {% include base_path %}
