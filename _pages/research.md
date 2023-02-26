@@ -1,4 +1,3 @@
-
 ---
 title: Research
 permalink: /research/
