@@ -74,7 +74,7 @@ Skills
   * Github
   * JIRA
 * Research writing:
-  * \LaTeX 
+  * LaTeX 
 * **Languages:**
   * Spanish (Native)
   * English (Full professional proficiency)
