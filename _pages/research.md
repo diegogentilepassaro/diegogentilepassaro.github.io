@@ -35,6 +35,7 @@ Equal pay laws increasingly  require that workers doing ``similar'' work are pai
 We test our model predictions using a difference-in-difference approach to analyze a gender-based EPSW passed in Chile in 2009, which affects firms above a threshold number of workers. We find that the EPSW increases the share of employees working at gender-segregated firms by 3\% and increases the gender wage gap by 3\%.
 </details>
 
+</br>
 
 Work in Progress
 ======
