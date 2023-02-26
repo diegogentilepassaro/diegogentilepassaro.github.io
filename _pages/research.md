@@ -8,10 +8,7 @@ title: off
 
 Working Papers
 ======
-
-[<figure style="width: 250px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/mw_rent.png" alt="">
-</figure>]({{ site.url }}{{ site.baseurl }}/images/mw_rent.png)
+[[/images/mw_rent.png|width=100px]]
 
 **Minimum Wage as a Place-Based Policy: Evidence from US Housing Rental Markets** (Submitted)
 (Joint with Gabriele Borg and Santiago Hermo)
