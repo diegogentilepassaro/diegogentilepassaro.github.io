@@ -38,6 +38,8 @@ We test our model predictions using a difference-in-difference approach to analy
 ## **Bimodal Transport Infrastructure and Regional Development: Evidence from Argentina, 1960 - 1991**
 **(Joint with Jose Belmar)** **Draft [here](https://scioteca.caf.com/handle/123456789/1714)** **New draft coming soon!**
 
+![Trains](/images/trains.png)
+
 <details open>
 <summary>Abstract</summary>
 We estimate the impact of railroad and road infrastructure on local economic development through the study of massive transport infrastructure changes in Argentina. Following a World Bank study, 10,000 kilometers of railroads were closed and 18,000 kilometers of paved roads were built between 1960 and 1991. Our empirical strategy relies on instrumental variables that exploit a discontinuity in how experts chose railroad segments to be studied for closure and hypothetical networks connecting main cities. We show that conventional IV estimates can be misleading when omitting potential substitution of different transport modes. We find that dismantling railroads had a negative impact on population and industrial production, and shifted the distribution of labor away from agriculture. On the other hand, we find weak evidence of roads construction having a positive impact on the share of employment in manufacturing and non-tradable industries, but no impacts on total population nor industrial production.
