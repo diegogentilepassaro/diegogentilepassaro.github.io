@@ -30,7 +30,7 @@ The recent rise of sub-national minimum wage (MW) policies in the US has resulte
 <details open>
 <summary>Abstract</summary>
 Equal pay laws increasingly  require that workers doing ``similar'' work are paid the same wage within a firm. We study such  ``equal pay for similar work" (EPSW) policies theoretically and empirically. In our model, we show that when EPSW restricts firms by protected class (e.g. no man can be paid less than any similar woman, and vice versa) firms segregate their workforce by gender in equilibrium. This endogenously lowers competition for workers, as it becomes costly for firms to poach from one another--doing so exposes them to the bite of the policy. As a result, wages are lower. When there are more men than women, EPSW leads to an increase in the equilibrium wage gap. For a sufficiently high ratio of men to women, there exist equilibria with arbitrarily low wages for women, leading to a particularly large wage gap. By contrast, EPSW that is not based on protected class can decrease the equilibrium wage gap.
-We test our model predictions using a difference-in-difference approach to analyze a gender-based EPSW passed in Chile in 2009, which affects firms above a threshold number of workers. We find that the EPSW increases the share of employees working at gender-segregated firms by 3\% and increases the gender wage gap by 3\%.
+We test our model predictions using a difference-in-difference approach to analyze a gender-based EPSW passed in Chile in 2009, which affects firms above a threshold number of workers. We find that the EPSW increases the share of employees working at gender-segregated firms by 3% and increases the gender wage gap by 3%.
 </details>
 
 <br>
