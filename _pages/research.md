@@ -7,11 +7,10 @@ title: off
 
 Working Papers
 ======
-
-![MW Rent](/images/mw_rent.png)
-
 ## **Minimum Wage as a Place-Based Policy: Evidence from US Housing Rental Markets** **(Submitted)**
 **(Joint with Gabriele Borg and Santiago Hermo)** **Draft [here](https://arxiv.org/abs/2208.01791)**
+
+![MW Rent](/images/mw_rent.png)
 
 <details open>
 <summary>Abstract</summary>
@@ -20,12 +19,12 @@ The recent rise of sub-national minimum wage (MW) policies in the US has resulte
 
 <br>
 <br>
-<br>
 
-![EPL](/images/epl.png)
 
 ## **Equal Pay for *Similar* Work**
 **(Joint with Fuhito Kojima and Bobby Pakzad-Hurson)** **Draft coming soon!**
+
+![EPL](/images/epl.png)
 
 <details open>
 <summary>Abstract</summary>
