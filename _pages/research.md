@@ -51,6 +51,8 @@ We estimate the impact of railroad and road infrastructure on local economic dev
 ## **The effects of access to safe abortion methods on women's mortality, fertility, employment, and birth outcomes**
 **(Joint with Catalina Ravizza)** **Draft [here](https://drive.google.com/file/d/1n74zRfJVd3OtY9mRKxCgyCjDJBkj5lb2/view?usp=sharing)**
 
+![AbortUru](/images/abortion.png)
+
 <details open>
 <summary>Abstract</summary>
 Using data from Uruguay, this paper investigates the impacts of the path to the legalization of abortion through a non-governmental health program that promoted safe abortion and provided counseling about contraception and pregnancy alternatives. We use a difference-in-difference design that exploits the timing and geographic variation in the expansion of the program. We show that around the time of the implementation of the program there was a strong decrease in maternal mortality and a slight decrease in fertility. We also analyze the effects on birth outcomes and employment. We find that access to safe abortion increased women's employment, and had a positive impact on birth outcomes, particularly on prenatal care. These findings suggest that, even without the legalization of abortion, the access to a safe and comprehensive abortion method can impact women's life choices.
