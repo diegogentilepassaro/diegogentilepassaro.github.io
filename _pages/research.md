@@ -8,7 +8,8 @@ title: off
 Working Papers
 ======
 ## **Minimum Wage as a Place-Based Policy: Evidence from US Housing Rental Markets** **(Submitted)**
-**(Joint with Gabriele Borg and Santiago Hermo)** **Draft [here](https://arxiv.org/abs/2208.01791)**
+**(Joint with Gabriele Borg and Santiago Hermo)** 
+**Draft [here](https://arxiv.org/abs/2208.01791)**
 
 ![MW Rent](/images/mw_rent.png)
 
@@ -22,7 +23,8 @@ The recent rise of sub-national minimum wage (MW) policies in the US has resulte
 
 
 ## **Equal Pay for *Similar* Work**
-**(Joint with Fuhito Kojima and Bobby Pakzad-Hurson)** **Draft coming soon!**
+**(Joint with Fuhito Kojima and Bobby Pakzad-Hurson)** 
+**Draft coming soon!**
 
 ![EPL](/images/epl.png)
 
@@ -36,7 +38,8 @@ We test our model predictions using a difference-in-difference approach to analy
 <br>
 
 ## **Bimodal Transport Infrastructure and Regional Development: Evidence from Argentina, 1960 - 1991**
-**(Joint with Jose Belmar)** **Draft [here](https://scioteca.caf.com/handle/123456789/1714)** **New draft coming soon!**
+**(Joint with Jose Belmar)** 
+**Draft [here](https://scioteca.caf.com/handle/123456789/1714).** **New draft coming soon!**
 
 ![Trains](/images/trains.png)
 
@@ -49,7 +52,8 @@ We estimate the impact of railroad and road infrastructure on local economic dev
 <br>
 
 ## **The effects of access to safe abortion methods on women's mortality, fertility, employment, and birth outcomes**
-**(Joint with Catalina Ravizza)** **Draft [here](https://drive.google.com/file/d/1n74zRfJVd3OtY9mRKxCgyCjDJBkj5lb2/view?usp=sharing)**
+**(Joint with Catalina Ravizza)** 
+**Draft [here](https://drive.google.com/file/d/1n74zRfJVd3OtY9mRKxCgyCjDJBkj5lb2/view?usp=sharing)**
 
 ![AbortUru](/images/abortion.png)
 
