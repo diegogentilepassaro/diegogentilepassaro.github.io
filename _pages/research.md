@@ -26,14 +26,13 @@ The recent rise of sub-national minimum wage (MW) policies in the US has resulte
 ## **Equal Pay for *Similar* Work**
 **(Joint with Fuhito Kojima and Bobby Pakzad-Hurson)** 
 
-**Draft coming soon!**
+**Draft [here](https://arxiv.org/pdf/2306.17111.pdf)**
 
 ![EPL](/images/epl.png)
 
 <details open>
 <summary>Abstract</summary>
-Equal pay laws increasingly  require that workers doing ``similar'' work are paid the same wage within a firm. We study such  ``equal pay for similar work" (EPSW) policies theoretically and empirically. In our model, we show that when EPSW restricts firms by protected class (e.g. no man can be paid less than any similar woman, and vice versa) firms segregate their workforce by gender in equilibrium. This endogenously lowers competition for workers, as it becomes costly for firms to poach from one another--doing so exposes them to the bite of the policy. As a result, wages are lower. When there are more men than women, EPSW leads to an increase in the equilibrium wage gap. For a sufficiently high ratio of men to women, there exist equilibria with arbitrarily low wages for women, leading to a particularly large wage gap. By contrast, EPSW that is not based on protected class can decrease the equilibrium wage gap.
-We test our model predictions using a difference-in-difference approach to analyze a gender-based EPSW passed in Chile in 2009, which affects firms above a threshold number of workers. We find that the EPSW increases the share of employees working at gender-segregated firms by 3% and increases the gender wage gap by 3%.
+Equal pay laws increasingly require that workers doing “similar” work are paid equal wages within firm. We study such “equal pay for similar work” (EPSW) policies theoretically and test our model’s predictions empirically using evidence from a 2009 Chilean EPSW. When EPSW only binds across protected class (e.g., no woman can be paid less than any similar man, and vice versa), firms segregate their workforce by gender. When there are more men than women in a labor market, EPSW increases the gender wage gap. By contrast, EPSW that is not based on protected class can decrease the gender wage gap.
 </details>
 
 <br>
