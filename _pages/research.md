@@ -7,7 +7,7 @@ title: off
 
 Working Papers
 ======
-## **Minimum Wage as a Place-Based Policy: Evidence from US Housing Rental Markets** **(Submitted)**
+## **From Workplace to Residence: The Spillover Effects of Minimum Wage Policies on Local Housing Markets** **(Submitted)**
 **(Joint with Gabriele Borg and Santiago Hermo)** 
 
 **Draft [here](https://arxiv.org/abs/2208.01791)**
@@ -24,7 +24,7 @@ The recent rise of sub-national minimum wage (MW) policies in the US has resulte
 
 
 ## **Equal Pay for *Similar* Work**
-**(Joint with Fuhito Kojima and Bobby Pakzad-Hurson)** 
+**(Joint with Fuhito Kojima and Bobby Pakzad-Hurson)(Submitted)** 
 
 **Draft [here](https://arxiv.org/pdf/2306.17111.pdf)**
 
