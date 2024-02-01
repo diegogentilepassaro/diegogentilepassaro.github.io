@@ -8,7 +8,7 @@ title: off
 Working Papers
 ======
 ## **Equal Pay for *Similar* Work**
-**(Joint with Fuhito Kojima and Bobby Pakzad-Hurson)(R&R AER)** 
+**(Joint with Fuhito Kojima and Bobby Pakzad-Hurson)(R&R American Economic Review)** 
 
 **Draft [here](https://arxiv.org/pdf/2306.17111.pdf)**
 
