@@ -7,6 +7,21 @@ title: off
 
 Working Papers
 ======
+## **Equal Pay for *Similar* Work**
+**(Joint with Fuhito Kojima and Bobby Pakzad-Hurson)(R&R AER)** 
+
+**Draft [here](https://arxiv.org/pdf/2306.17111.pdf)**
+
+![EPL](/images/epl.png)
+
+<details open>
+<summary>Abstract</summary>
+Equal pay laws increasingly require that workers doing “similar” work are paid equal wages within firm. We study such “equal pay for similar work” (EPSW) policies theoretically and test our model’s predictions empirically using evidence from a 2009 Chilean EPSW. When EPSW only binds across protected class (e.g., no woman can be paid less than any similar man, and vice versa), firms segregate their workforce by gender. When there are more men than women in a labor market, EPSW increases the gender wage gap. By contrast, EPSW that is not based on protected class can decrease the gender wage gap.
+</details>
+
+<br>
+<br>
+
 ## **From Workplace to Residence: The Spillover Effects of Minimum Wage Policies on Local Housing Markets** **(Submitted)**
 **(Joint with Gabriele Borg and Santiago Hermo)** 
 
@@ -17,22 +32,6 @@ Working Papers
 <details open>
 <summary>Abstract</summary>
 The recent rise of sub-national minimum wage (MW) policies in the US has resulted in significant dispersion of MW levels within metropolitan areas. In this paper, we study the effect of MW changes on local housing rental markets exploiting the placed-based nature of MW policies. For each location we define both the log MW where the average resident works (the "workplace MW") and the log MW in the location itself (the "residence MW"). We derive a partial-equilibrium model of a housing market in which MW levels in each location affect housing demand by changing the income of commuters and the prices of non-tradable consumption. The model shows that the workplace MW has a positive effect on rents whereas the residence MW has a negative effect. We construct a ZIP code by month panel using rents data from Zillow, and use a difference-in-differences design to estimate the effect of residence and workplace MW changes on median housing rents. Our baseline results imply that a 10 percent increase in the workplace MW and no change in the residence MW will increase rents by 0.69 percent (SE=0.29). If the residence MW also increases by 10 percent, then rents will increase by 0.47 percent (SE=0.16). We use our results to study the incidence of two counterfactual MW policies: a federal MW increase and a city MW increase. We estimate that landlords pocket 9.2 and 11.0 cents for every dollar increase in worker income in areas affected by these policies. However, the incidence varies systematically across space.
-</details>
-
-<br>
-<br>
-
-
-## **Equal Pay for *Similar* Work**
-**(Joint with Fuhito Kojima and Bobby Pakzad-Hurson)(Submitted)** 
-
-**Draft [here](https://arxiv.org/pdf/2306.17111.pdf)**
-
-![EPL](/images/epl.png)
-
-<details open>
-<summary>Abstract</summary>
-Equal pay laws increasingly require that workers doing “similar” work are paid equal wages within firm. We study such “equal pay for similar work” (EPSW) policies theoretically and test our model’s predictions empirically using evidence from a 2009 Chilean EPSW. When EPSW only binds across protected class (e.g., no woman can be paid less than any similar man, and vice versa), firms segregate their workforce by gender. When there are more men than women in a labor market, EPSW increases the gender wage gap. By contrast, EPSW that is not based on protected class can decrease the gender wage gap.
 </details>
 
 <br>
