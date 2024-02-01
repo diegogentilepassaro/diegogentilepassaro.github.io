@@ -7,11 +7,11 @@ title: off
 
 Working Papers
 ======
-## **Equal Pay for *Similar* Work**
-**(Joint with Fuhito Kojima and Bobby Pakzad-Hurson)(R&R American Economic Review)** 
+## **Equal Pay for *Similar* Work (R&R American Economic Review)**
+**(Joint with Fuhito Kojima and Bobby Pakzad-Hurson)** 
 
 **Draft [here](https://arxiv.org/pdf/2306.17111.pdf)**
-
+**[Best Paper Award](https://eaamo.org/awards/) at ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization**
 ![EPL](/images/epl.png)
 
 <details open>
