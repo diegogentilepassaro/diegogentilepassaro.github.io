@@ -10,10 +10,11 @@ Working Papers
 ## **Equal Pay for *Similar* Work (R&R American Economic Review)**
 **(Joint with Fuhito Kojima and Bobby Pakzad-Hurson)** 
 
-**Draft [here](https://arxiv.org/pdf/2306.17111.pdf)**
 
 **[Best Paper Award](https://eaamo.org/awards/) at ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization**
 ![EPL](/images/epl.png)
+
+**Draft [here](https://arxiv.org/pdf/2306.17111.pdf)**
 
 <details open>
 <summary>Abstract</summary>
