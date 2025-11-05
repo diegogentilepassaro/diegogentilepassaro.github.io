@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Diego Gentile Passaro"
   avatar           : "diego_photo.jpg"
-  bio              : "Economist at Amazon"
-  location         : "Washington, DC"
+  bio              : "Senior Economist at Amazon"
+  location         : "Barcelona, Spain"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=es&user=m27V9qYAAAAJ"
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "diego-r-gentile-passaro-904972a5/"
   orcid            : 
