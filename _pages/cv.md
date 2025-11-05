@@ -19,15 +19,23 @@ Education
 
 Relevant Work Experience
 ======
-* **Full-time Economist, Amazon, Amazon Pharmacy Economics Team, since Fall 2022**
-  * Duties included: Time series forecasting, time series machine learning, pricing policy simulation and causal evaluation, designing and implementing A/B tests, all in the pharmacy space. 
+* **Senior Economist, Amazon, EU Prime and Marketing Science, Since Fall 2025 **
+  * Duties included: Optimize marketing, prime, and speed initiatives in the EU, using applied econometrics, causal inference, and machine learning.
+  * Supervisor: Jesus Lago and Kathleen Nosal
+   
+* **Senior Economist, Amazon, Amazon Pharmacy Economics Team, 2024 -  Summer 2025 **
+  * Duties included: Helping understand the customer journey through data, economics, and machine learning. Owned the optimization of the email marketing channel using machine learning and experimentation. Promoted to Senior Economist during the spring of 2025.
+  * Supervisor: Xin Tang
+  
+* **Economist I and II, Amazon, Amazon Pharmacy Economics Team, since Fall 2022 - 2023**
+  * Duties included: Time series forecasting, time series machine learning, pricing policy simulation and causal evaluation, designing and implementing A/B tests, all in the pharmacy space. Promoted to Economist II during the summer of 2023.
   * Supervisor: Greg Lewis
 
-* **Full-time Economist, Amazon, AWS - Central Economics Team, Summer 2022**
+* **Economist, Amazon, AWS - Central Economics Team, Summer 2022**
   * Duties included: Neareast neighbor matching, synthetic control method, and industrial organization in the cloud computing space.
   * Supervisor: Andre Trindade
 
-* **Full-time Intern Economist, Amazon, AWS - Central Economics Team, Summer 2021**
+* **Intern Economist, Amazon, AWS - Central Economics Team, Summer 2021**
   * Duties included: Working in two research projects in the cloud computing space using forecasting, industrial organization, causal inference policy evaluation, and machine learning.
   * Supervisor: Andre Trindade
 
