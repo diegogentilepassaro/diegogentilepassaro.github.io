@@ -7,7 +7,7 @@ title: off
 
 Working Papers
 ======
-## **Equal Pay for *Similar* Work (R&R American Economic Review)**
+## **Equal Pay for *Similar* Work (Conditionally accepted at the American Economic Review)**
 **(Joint with Fuhito Kojima and Bobby Pakzad-Hurson)** 
 
 
