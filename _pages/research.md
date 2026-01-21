@@ -7,7 +7,7 @@ title: off
 
 Working Papers
 ======
-## **Equal Pay for *Similar* Work (Conditionally accepted at the American Economic Review)**
+## **Equal Pay for *Similar* Work (Forthcoming at the American Economic Review March 2026)**
 **(Joint with Fuhito Kojima and Bobby Pakzad-Hurson)** 
 
 
