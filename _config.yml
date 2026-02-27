@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Diego Gentile Passaro"
 title_separator          : "-"
 name                     : &name "Diego Gentile Passaro"
-description              : &description "Economist at Amazon"
+description              : &description "Senior Economist at Amazon | Ph.D. in Economics, Brown University"
 url                      : https://diegogentilepassaro.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "diegogentilepassaro.github.io"
