@@ -1,56 +1,107 @@
 /* ==========================================================================
-   CUSTOM STYLES — Full visual overhaul
+   CUSTOM STYLES — Bold visual identity
    ========================================================================== */
 
 /* -------------------------------------------------------------------------
-   Global refinements
+   Color palette
+   ------------------------------------------------------------------------- */
+$navy:        #0f2b46;
+$navy-light:  #1a3a5c;
+$accent:      #3182ce;
+$accent-dark: #2563a8;
+$warm:        #e8a838;
+$bg-cream:    #f8f6f1;
+$bg-card:     #ffffff;
+$text-main:   #1a202c;
+$text-muted:  #64748b;
+$text-light:  #94a3b8;
+$border-soft: #e2e8f0;
+
+/* -------------------------------------------------------------------------
+   Global
    ------------------------------------------------------------------------- */
 
 body {
-  background-color: #fafbfc;
+  background: $bg-cream;
+  color: $text-main;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* Smoother link transitions everywhere */
 a {
-  transition: color 0.2s ease, background-color 0.2s ease;
+  transition: color 0.2s ease, background-color 0.2s ease, transform 0.15s ease;
+}
+
+::selection {
+  background: rgba($accent, 0.15);
+  color: $navy;
 }
 
 /* -------------------------------------------------------------------------
-   Masthead / Header
+   Masthead — gradient bar
    ------------------------------------------------------------------------- */
 
 .masthead {
-  background: #fff;
-  border-bottom: none;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+  background: linear-gradient(135deg, $navy 0%, $navy-light 100%);
+  border-bottom: 3px solid $warm;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);
 }
 
 .greedy-nav {
-  background: #fff;
+  background: transparent;
 
   a {
-    color: #4a5568;
+    color: rgba(255, 255, 255, 0.8);
     font-weight: 500;
-    font-size: 0.92em;
-    letter-spacing: 0.01em;
+    font-size: 0.9em;
+    letter-spacing: 0.02em;
 
     &:hover {
-      color: $primary-color;
+      color: #fff;
     }
   }
 
   .visible-links li:first-child a {
-    color: $primary-color;
+    color: #fff;
     font-weight: 700;
-    font-size: 1.05em;
+    font-size: 1.1em;
     letter-spacing: -0.01em;
   }
 
   .visible-links a:before {
-    background: $primary-color;
-    height: 2px;
+    background: $warm;
+    height: 3px;
+    bottom: -2px;
+  }
+
+  button {
+    background-color: $navy-light;
+  }
+
+  .hidden-links {
+    background: $navy;
+    border-color: $navy-light;
+
+    a {
+      color: rgba(255, 255, 255, 0.85);
+
+      &:hover {
+        color: #fff;
+        background: $navy-light;
+      }
+    }
+
+    &:before {
+      border-color: $navy-light transparent;
+    }
+
+    &:after {
+      border-color: $navy transparent;
+    }
+
+    li {
+      border-bottom-color: $navy-light;
+    }
   }
 }
 
@@ -60,298 +111,349 @@ a {
 
 .sidebar {
   @include breakpoint($large) {
-    opacity: 0.95;
-
-    &:hover {
-      opacity: 1;
-    }
+    opacity: 1;
   }
 }
 
 .author__avatar img {
   border-radius: 50%;
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
-  border: 3px solid #fff;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+  border: 4px solid #fff;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 
   @include breakpoint($large) {
-    border: 3px solid #fff;
+    border: 4px solid #fff;
     padding: 0;
   }
 
   &:hover {
-    transform: scale(1.03);
-    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+    transform: scale(1.04);
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.18);
   }
 }
 
 .author__name {
   font-weight: 700;
-  color: $primary-color;
-  font-size: 1.1em;
+  color: $navy;
+  font-size: 1.15em;
   letter-spacing: -0.01em;
 }
 
 .author__bio {
   font-size: 0.88em;
-  color: #4a5568;
-  line-height: 1.5;
+  color: $text-muted;
+  line-height: 1.6;
 }
 
 .author__urls {
   a {
-    font-size: 0.88em;
-    color: #4a5568;
-    transition: color 0.2s ease;
+    font-size: 0.85em;
+    color: $text-muted;
+    padding: 0.25em 0;
+    border-radius: 4px;
 
     &:hover {
-      color: $primary-color;
+      color: $accent;
+      background: rgba($accent, 0.06);
     }
   }
 
   .fa, .fas, .fab, .far {
-    color: #718096;
-    width: 1.2em;
+    color: $text-light;
+    width: 1.3em;
     text-align: center;
   }
 }
 
 /* -------------------------------------------------------------------------
-   Main content area
+   Main content card
    ------------------------------------------------------------------------- */
 
 #main {
-  background: #fff;
-  border-radius: 8px;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
-  padding: 2em 1.5em;
-  margin-top: 2em;
+  background: $bg-card;
+  border-radius: 12px;
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.06), 0 0 0 1px rgba(0, 0, 0, 0.02);
+  padding: 2.5em 2em;
+  margin-top: 2.5em;
 
   @include breakpoint($large) {
-    padding: 2.5em 2em;
+    padding: 3em 2.5em;
   }
 }
 
 /* -------------------------------------------------------------------------
-   Page content typography
+   Typography
    ------------------------------------------------------------------------- */
 
 .page__content {
-  line-height: 1.75;
+  line-height: 1.8;
 
   p {
-    color: #2d3748;
+    color: $text-main;
   }
 
   h1 {
     font-weight: 700;
-    color: $primary-color;
-    font-size: 1.5em;
-    border-bottom: 2px solid $primary-color;
-    padding-bottom: 0.35em;
-    margin-top: 1.5em;
+    color: $navy;
+    font-size: 1.45em;
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-top: 2em;
+    margin-bottom: 0.8em;
+    position: relative;
+    padding-left: 0.8em;
+
+    &:before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0.15em;
+      bottom: 0.15em;
+      width: 4px;
+      background: $warm;
+      border-radius: 2px;
+    }
   }
 
   h2 {
     font-weight: 600;
-    color: #2d3748;
-    font-size: 1.1em;
-    border-bottom: 1px solid #e2e8f0;
-    padding-bottom: 0.35em;
+    color: $text-main;
+    font-size: 1.08em;
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-top: 1.5em;
   }
 
   a {
-    color: $link-color;
+    color: $accent;
 
     &:hover {
-      color: $link-color-hover;
+      color: $accent-dark;
     }
   }
 
-  /* Research images */
   img {
-    border-radius: 6px;
-    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.07);
-    margin: 0.8em 0 1.2em;
-    transition: box-shadow 0.3s ease;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    margin: 1em 0 1.5em;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
 
     &:hover {
-      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+      transform: translateY(-2px);
     }
   }
 }
 
 /* -------------------------------------------------------------------------
-   Homepage styles
+   Homepage
    ------------------------------------------------------------------------- */
 
 p.home-tagline {
-  font-size: 1em;
-  font-weight: 500;
-  color: $primary-color;
-  letter-spacing: 0.03em;
+  font-size: 0.95em;
+  font-weight: 600;
+  color: $navy;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
   margin-bottom: 1.5em;
   padding-bottom: 0.8em;
-  border-bottom: 2px solid $primary-color;
+  border-bottom: 3px solid $warm;
   display: inline-block;
 
   strong {
-    font-weight: 500;
+    font-weight: 600;
   }
 }
 
-/* Featured publication badge */
 p.featured-badge {
   margin-bottom: 0.4em;
 
   strong {
     display: inline-block;
-    background: $primary-color;
+    background: linear-gradient(135deg, $navy 0%, $navy-light 100%);
     color: #fff;
-    font-size: 0.75em;
+    font-size: 0.72em;
     font-weight: 600;
-    letter-spacing: 0.06em;
+    letter-spacing: 0.08em;
     text-transform: uppercase;
-    padding: 0.3em 0.9em;
-    border-radius: 4px;
+    padding: 0.35em 1em;
+    border-radius: 20px;
   }
 }
 
 p.featured-pub-venue {
   font-weight: 600;
-  color: #4a5568;
+  color: $text-muted;
   margin-bottom: 0.15em;
   font-size: 0.95em;
 }
 
 p.featured-pub-authors {
-  color: #718096;
+  color: $text-light;
   font-size: 0.9em;
   margin-bottom: 0.5em;
 }
 
 p.featured-pub-award {
-  font-size: 0.88em;
-  color: #744210;
-  background: #fefcbf;
+  font-size: 0.85em;
+  color: #92400e;
+  background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
   display: inline-block;
-  padding: 0.3em 0.8em;
-  border-radius: 4px;
+  padding: 0.35em 0.9em;
+  border-radius: 20px;
   margin-bottom: 0.6em;
+  font-weight: 500;
 }
 
 p.featured-pub-links {
   font-size: 0.9em;
 
   a {
-    color: $primary-color;
-    font-weight: 500;
+    color: $accent;
+    font-weight: 600;
   }
 }
 
 /* -------------------------------------------------------------------------
-   Research page styles
+   Research page
    ------------------------------------------------------------------------- */
 
-/* Publication link buttons */
 .pub-link-btn {
   display: inline-block;
-  padding: 0.35em 0.9em;
-  background: $primary-color;
+  padding: 0.4em 1em;
+  background: linear-gradient(135deg, $navy 0%, $navy-light 100%);
   color: #fff !important;
-  border-radius: 5px;
-  font-size: 0.82em;
+  border-radius: 20px;
+  font-size: 0.8em;
   font-weight: 500;
   text-decoration: none !important;
-  margin-right: 0.25em;
+  margin-right: 0.3em;
   margin-bottom: 0.4em;
-  transition: background 0.2s ease, transform 0.15s ease;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 6px rgba($navy, 0.2);
 
   &:hover {
-    background: darken($primary-color, 8%);
+    background: linear-gradient(135deg, $navy-light 0%, $accent-dark 100%);
     text-decoration: none !important;
-    transform: translateY(-1px);
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba($navy, 0.25);
   }
 }
 
-/* Publication metadata */
 p.pub-venue {
   font-weight: 600;
-  color: #4a5568;
+  color: $text-muted;
   font-size: 0.95em;
   margin-bottom: 0.2em;
 }
 
 p.pub-authors {
-  color: #718096;
+  color: $text-light;
   font-size: 0.9em;
   margin-bottom: 0.5em;
 }
 
 p.pub-award-text {
-  font-size: 0.88em;
-  color: #744210;
-  background: #fefcbf;
+  font-size: 0.85em;
+  color: #92400e;
+  background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
   display: inline-block;
-  padding: 0.3em 0.8em;
-  border-radius: 4px;
+  padding: 0.35em 0.9em;
+  border-radius: 20px;
   margin-bottom: 0.8em;
+  font-weight: 500;
 }
 
-/* Paper status badge */
 .paper-status {
   display: inline-block;
-  font-size: 0.6em;
+  font-size: 0.58em;
   font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
-  background: #ebf8ff;
-  color: #2b6cb0;
-  padding: 0.2em 0.6em;
-  border-radius: 4px;
+  letter-spacing: 0.06em;
+  background: linear-gradient(135deg, #dbeafe 0%, #bfdbfe 100%);
+  color: $accent-dark;
+  padding: 0.25em 0.7em;
+  border-radius: 20px;
   vertical-align: middle;
   margin-left: 0.3em;
 }
 
-/* Details/summary (abstracts) */
+/* -------------------------------------------------------------------------
+   Abstracts (details/summary)
+   ------------------------------------------------------------------------- */
+
 details {
-  margin: 0.8em 0;
-  padding: 0.8em 1em;
-  background: #f7fafc;
-  border-radius: 6px;
-  border: 1px solid #e2e8f0;
+  margin: 1em 0;
+  padding: 1em 1.2em;
+  background: #f1f5f9;
+  border-radius: 8px;
+  border-left: 4px solid $accent;
+  transition: background 0.2s ease;
+}
+
+details:hover {
+  background: #e8eef5;
 }
 
 summary {
   cursor: pointer;
   font-weight: 600;
-  color: $primary-color;
-  font-size: 0.92em;
+  color: $navy;
+  font-size: 0.9em;
   padding: 0;
-  transition: color 0.2s ease;
   user-select: none;
+  transition: color 0.2s ease;
 
   &:hover {
-    color: darken($primary-color, 15%);
+    color: $accent;
   }
 
   &::-webkit-details-marker {
-    color: $primary-color;
+    color: $accent;
   }
 }
 
 details[open] summary {
-  margin-bottom: 0.6em;
+  margin-bottom: 0.7em;
   padding-bottom: 0.5em;
-  border-bottom: 1px solid #e2e8f0;
+  border-bottom: 1px solid $border-soft;
 }
 
 details p {
-  font-size: 0.9em;
-  line-height: 1.7;
-  color: #4a5568;
+  font-size: 0.88em;
+  line-height: 1.75;
+  color: $text-muted;
+  margin-bottom: 0;
+}
+
+/* -------------------------------------------------------------------------
+   CV page
+   ------------------------------------------------------------------------- */
+
+p.cv-entry {
+  margin-bottom: 0.2em;
+  padding-bottom: 0;
+
+  strong {
+    color: $navy;
+  }
+}
+
+/* Timeline-style dots for CV entries */
+.page__content p.cv-entry {
+  position: relative;
+  padding-left: 1em;
+
+  &:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.55em;
+    width: 6px;
+    height: 6px;
+    background: $warm;
+    border-radius: 50%;
+  }
 }
 
 /* -------------------------------------------------------------------------
@@ -359,9 +461,9 @@ details p {
    ------------------------------------------------------------------------- */
 
 .page__footer {
-  background: #1a202c;
-  border-top: none;
-  color: #a0aec0;
+  background: linear-gradient(135deg, $navy 0%, #0c1f33 100%);
+  border-top: 3px solid $warm;
+  color: rgba(255, 255, 255, 0.6);
   margin-top: 3em;
 
   footer {
@@ -370,15 +472,16 @@ details p {
   }
 
   a {
-    color: #cbd5e0;
+    color: rgba(255, 255, 255, 0.75);
 
     &:hover {
-      color: #fff;
+      color: $warm;
+      text-decoration: none;
     }
   }
 
   .fas, .fab, .far, .fal {
-    color: #718096;
+    color: rgba(255, 255, 255, 0.5);
   }
 }
 
@@ -386,7 +489,7 @@ details p {
   ul {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.5em;
+    gap: 0.4em;
     justify-content: center;
   }
 
@@ -397,48 +500,56 @@ details p {
   }
 
   a {
-    padding: 0.3em 0.8em;
-    border-radius: 4px;
+    padding: 0.35em 0.9em;
+    border-radius: 20px;
     font-weight: 500;
-    transition: background 0.2s ease;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    transition: all 0.2s ease;
 
     &:hover {
       background: rgba(255, 255, 255, 0.1);
-      text-decoration: none;
+      border-color: $warm;
+      color: $warm;
     }
   }
 }
 
 .page__footer-copyright {
   text-align: center;
-  font-size: 0.75em;
-  color: #718096;
-  margin-top: 1em;
+  font-size: 0.72em;
+  color: rgba(255, 255, 255, 0.35);
+  margin-top: 1.2em;
 }
 
 /* -------------------------------------------------------------------------
-   CV page refinements
+   Horizontal rule as section divider
    ------------------------------------------------------------------------- */
 
-.page__content ul {
-  li {
-    margin-bottom: 0.3em;
-  }
+hr {
+  border: none;
+  height: 3px;
+  background: linear-gradient(90deg, $warm 0%, transparent 100%);
+  margin: 2em 0;
 }
 
 /* -------------------------------------------------------------------------
-   Responsive tweaks
+   Responsive
    ------------------------------------------------------------------------- */
 
 @media (max-width: 600px) {
   #main {
     border-radius: 0;
     box-shadow: none;
-    padding: 1.2em 1em;
+    padding: 1.5em 1.2em;
+    margin-top: 0;
   }
 
   .pub-link-btn {
-    font-size: 0.78em;
-    padding: 0.3em 0.7em;
+    font-size: 0.76em;
+    padding: 0.3em 0.8em;
+  }
+
+  .masthead {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   }
 }

@@ -1,122 +1,133 @@
 ---
-layout: archive
+layout: single
 permalink: /cv/
 author_profile: true
-title: ""
+title: "Curriculum Vitae"
 ---
-
-{% include base_path %}
-
 
 Education
 ======
-* **Ph.D. in Economics, Brown University, 2022**
-* **M.A. in Economics, Brown University, 2019**
-* **M.A. in Economics of Public Policy, Barcelona School of Economics, 2016**
-* **M.A. in Urban Economics (thesis pending due to continuing studies abroad), 2015**
-* **B.S. (Licenciatura) in Economics, Universidad de la República, 2012**
 
+**Ph.D. in Economics** · Brown University · 2022
+{: .cv-entry}
 
-Relevant Work Experience
+**M.A. in Economics** · Brown University · 2019
+{: .cv-entry}
+
+**M.A. in Economics of Public Policy** · Barcelona School of Economics · 2016
+{: .cv-entry}
+
+**M.A. in Urban Economics** · Universidad Torcuato Di Tella · 2015
+{: .cv-entry}
+
+**B.S. in Economics** · Universidad de la República, Uruguay · 2012
+{: .cv-entry}
+
+Experience
 ======
-* **Senior Economist, Amazon, EU Prime and Marketing Science, Since Fall 2025 **
-  * Duties included: Optimize marketing, prime, and speed initiatives in the EU, using applied econometrics, causal inference, and machine learning.
-  * Supervisor: Jesus Lago and Kathleen Nosal
-   
-* **Senior Economist, Amazon, Amazon Pharmacy Economics Team, 2024 -  Summer 2025 **
-  * Duties included: Helping understand the customer journey through data, economics, and machine learning. Owned the optimization of the email marketing channel using machine learning and experimentation. Promoted to Senior Economist during the spring of 2025.
-  * Supervisor: Xin Tang
-  
-* **Economist I and II, Amazon, Amazon Pharmacy Economics Team, since Fall 2022 - 2023**
-  * Duties included: Time series forecasting, time series machine learning, pricing policy simulation and causal evaluation, designing and implementing A/B tests, all in the pharmacy space. Promoted to Economist II during the summer of 2023.
-  * Supervisor: Greg Lewis
 
-* **Economist, Amazon, AWS - Central Economics Team, Summer 2022**
-  * Duties included: Neareast neighbor matching, synthetic control method, and industrial organization in the cloud computing space.
-  * Supervisor: Andre Trindade
+**Senior Economist** · Amazon, EU Prime & Marketing Science · 2025 – Present
+{: .cv-entry}
 
-* **Intern Economist, Amazon, AWS - Central Economics Team, Summer 2021**
-  * Duties included: Working in two research projects in the cloud computing space using forecasting, industrial organization, causal inference policy evaluation, and machine learning.
-  * Supervisor: Andre Trindade
+Optimizing marketing, Prime, and speed initiatives across the EU using applied econometrics, causal inference, and machine learning.
 
-* **Research Assistant, The University of Chicago Booth School of Business, Fall 2020 - Spring 2021**
-  * Duties included: Warehousing, cleaning, and analyzing massive mobile phone spatial data requiring knowledge on how to handle efficiently large geocoded datasets.
-  * Supervisors: Milena Almagro (UChicago Booth), Juan Camilo Castillo (UPenn), and Tobias Salz (MIT)
+**Senior Economist** · Amazon, Pharmacy Economics · 2024 – 2025
+{: .cv-entry}
 
-* **Research Assistant, Brown University, Department of Economics, Fall 2020**
-  * Duties included:  Using various datasets and causal inference techniques to estimate the effects of Pay Transparency policies on wages and employment. Forthcoming in Econometrica 2023. Draft [here](https://docs.google.com/a/brown.edu/viewer?a=v&pid=sites&srcid=YnJvd24uZWR1fGJwaHxneDo3MGQ1ZWRlZmE1ZDgxN2Iw)
-  * Supervisors: Bobby Pakzad-Hurson (Brown) and Zoe Cullen (Harvard Business School)
- 
-* **Research Assistant, Brown University, Department of Economics, Spring 2020**
-  * Duties included: Analyzing transactions data from supermarkets for a project trying to understand consumer behavior using discrete choice models of demand with reference dependent utility.
-  * Supervisor: Neil Thakral
+Led optimization of the email marketing channel using ML and experimentation. Modeled the customer journey through data, economics, and machine learning. Promoted to Senior Economist in Spring 2025.
 
-* **Research Assistant (later promoted to coauthor), Brown University, Department of Economics, Fall 2019 - Spring 2021**
-  * Duties included: Gathering, warehousing, and analyzing employer-employee data from Chile's pension system to study the effects of an equal pay law in the gender wage gap and firm-level gender segregation.
-  * Supervisors: Bobby Pakzad-Hurson (Brown) and Fuhito Kojima (Stanford)
+**Economist I & II** · Amazon, Pharmacy Economics · 2022 – 2023
+{: .cv-entry}
 
-* **Full-time Research Assistant, Brown University, Department of Economics and RIPL, Fall 2016 - Spring 2018**
-  * Duties included: Analyzing and maintaining a database with over 6 billion supermarket transactions for [”How are SNAP benefits spent? Evidence from a retail panel”](https://www.aeaweb.org/articles?id=10.1257/aer.20170866), an AER paper.
-  * Supervisors: Jesse Shapiro (Harvard) and Justine Hastings (Amazon)
+Time series forecasting and ML, pricing policy simulation and causal evaluation, A/B test design and implementation. Promoted to Economist II in Summer 2023.
 
-* **Consultant, Instituto de Vivienda de la Ciudad de Buenos Aires and CIPUV, Fall 2014**
-  * Duties included: Advising the director of the Buenos Aires social housing authority in a public program to subsidize rents and in a program to rellocate a slum, as part of an agreement with the Research Center for Urban policy and Housing ([CIPUV](https://www.utdt.edu/ver_contenido.php?id_contenido=10061&id_item_menu=15810)).
-  * Supervisors: Cynthia Goytia (UTDT) and Emilio Basavilbaso (ANSES)
+**Economist** · Amazon, AWS Central Economics · Summer 2022
+{: .cv-entry}
 
-* **Research Intern, Urbanistes du Monde, Summer 2014**
-  * Duties included: Writing a research report about the port-city interface in Buenos Aires. The report can be found [here](https://drive.google.com/file/d/112Iprn4kNDdO5DCwvZXNosGHrQhc_vBh/view?usp=sharing).
-  * Supervisor: Diego Gutierrez
+Nearest neighbor matching, synthetic control methods, and industrial organization research in cloud computing.
 
+**Intern Economist** · Amazon, AWS Central Economics · Summer 2021
+{: .cv-entry}
+
+Two research projects in cloud computing using forecasting, IO, causal inference, and machine learning.
+
+Research Experience
+======
+
+**Research Assistant** · UChicago Booth School of Business · 2020 – 2021
+{: .cv-entry}
+
+Warehousing, cleaning, and analyzing massive mobile phone spatial data. Supervisors: Milena Almagro, Juan Camilo Castillo, and Tobias Salz.
+
+**Research Assistant** · Brown University · Fall 2020
+{: .cv-entry}
+
+Causal inference analysis of Pay Transparency policies on wages and employment. Published in [Econometrica, 2023](https://doi.org/10.3982/ECTA19788). Supervisors: Bobby Pakzad-Hurson and Zoe Cullen.
+
+**Research Assistant → Coauthor** · Brown University · 2019 – 2021
+{: .cv-entry}
+
+Employer-employee data analysis from Chile's pension system studying equal pay law effects on the gender wage gap. Published in [AER, 2026](https://www.aeaweb.org/articles?id=10.1257/aer.20230832). Supervisors: Bobby Pakzad-Hurson and Fuhito Kojima.
+
+**Full-time Research Assistant** · Brown University & RIPL · 2016 – 2018
+{: .cv-entry}
+
+Maintained and analyzed a database with 6+ billion supermarket transactions for ["How are SNAP benefits spent?"](https://www.aeaweb.org/articles?id=10.1257/aer.20170866) (AER). Supervisors: Jesse Shapiro and Justine Hastings.
+
+**Consultant** · Instituto de Vivienda de Buenos Aires & [CIPUV](https://www.utdt.edu/ver_contenido.php?id_contenido=10061&id_item_menu=15810) · Fall 2014
+{: .cv-entry}
+
+Advised the Buenos Aires social housing authority on rent subsidy programs and slum relocation policy.
+
+**Research Intern** · Urbanistes du Monde · Summer 2014
+{: .cv-entry}
+
+Authored a [research report](https://drive.google.com/file/d/112Iprn4kNDdO5DCwvZXNosGHrQhc_vBh/view?usp=sharing) on the port-city interface in Buenos Aires.
+
+Teaching
+======
+
+**Pre-college Lecturer** · Brown University · Summers 2020 & 2021
+{: .cv-entry}
+
+Game Theory and Behavioral Economics
+
+**Teaching Assistant** · Brown University · Fall 2021
+{: .cv-entry}
+
+Essential Mathematics for Economics
+
+**Undergraduate TA** · Universidad Torcuato Di Tella · 2013 – 2014
+{: .cv-entry}
+
+Mathematics I & II, Microeconomics I, Macroeconomics I
 
 Skills
 ======
-* **Data software:**
-  * R
-  * STATA
-  * Python
-  * ArcGIS
-  * QGIS
-  * SQL
-  * Amazon Redshift
-* **Project management:**
-  * Github
-  * JIRA
-* Research writing:
-  * LaTeX 
-* **Languages:**
-  * Spanish (Native)
-  * English (Full professional proficiency)
-  * French (Intermediate)
-  * Portuguese (Intermediate)
-  * Italian (Intermediate)
-  * Catalan (Intermediate)
-* **Hobbies:**
-  * Playing soccer
-  * Cyclying
-  * Playing the guitar  
 
+**Programming & Data:** R · Python · Stata · SQL · Amazon Redshift · ArcGIS · QGIS
+{: .cv-entry}
 
-Teaching Experience
+**Tools:** Git/GitHub · JIRA · LaTeX
+{: .cv-entry}
+
+**Languages:** Spanish (native) · English (fluent) · French · Portuguese · Italian · Catalan
+{: .cv-entry}
+
+Service
 ======
-* **Pre-college Lecturer, Brown University, Summer 2021**
-  * Game Theory and Behavioral Economics
 
-* **Teaching Assistant, Brown University, Fall 2021**
-  * Essential Mathematics for Economics
-  * Supervisor: Kristina Mallory
+🏆 Intramural Soccer Champion with "Random Walk" · Brown Economics · 2019
+{: .cv-entry}
 
-* **Pre-college Lecturer, Brown University, Summer 2020**
-  * Game Theory and Behavioral Economics 
+Volunteer, food pantry Comedor de Barrancas El Gomero · Buenos Aires · 2013
+{: .cv-entry}
 
-* **Undergraduate Teaching Assistant, Universidad Torcuato Di Tella, Fall 2013 - Spring 2014**
-  * Mathematics I and II, Microeconomics I, and Macroeconomics I
-  * Supervisors: Pablo Azcue (UTDT) and Marzia Raybaudi Massilia (UTDT)
-  
+Homework tutoring for children in Villa 31 informal settlement · Buenos Aires · 2014
+{: .cv-entry}
 
-Service and Leadership
-======
-* Intramural Soccer Champion with Random Walk, Brown University, Department of Economics, Fall 2019
-* Volunteer work for food pantry Comedor de Barrancas El Gomero, Buenos Aires, Argentina, Fall 2013
-* Provided help with homework (apoyo escolar) to school kids in informal settlement Villa 31, Buenos Aires, Argentina, Spring 2014
-* Provided help building temporary houses in informal settlement for TECHO, Montevideo, Uruguay, Spring 2011
-* Student representative at Student Convention (FEUU UDELAR), Montevideo, Uruguay, 2010 and 2011
+Housing construction volunteer · TECHO · Montevideo · 2011
+{: .cv-entry}
+
+Student representative · FEUU UDELAR · Montevideo · 2010 – 2011
+{: .cv-entry}
