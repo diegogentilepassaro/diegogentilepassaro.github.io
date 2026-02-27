@@ -430,30 +430,113 @@ details p {
    CV page
    ------------------------------------------------------------------------- */
 
-p.cv-entry {
-  margin-bottom: 0.2em;
-  padding-bottom: 0;
-
-  strong {
-    color: $navy;
-  }
-}
-
-/* Timeline-style dots for CV entries */
-.page__content p.cv-entry {
+.cv-item {
   position: relative;
-  padding-left: 1em;
+  padding-left: 1.2em;
+  margin-bottom: 1.2em;
+  border-left: 2px solid #e2e8f0;
+  padding-bottom: 0.2em;
 
   &:before {
     content: "";
     position: absolute;
-    left: 0;
-    top: 0.55em;
-    width: 6px;
-    height: 6px;
+    left: -5px;
+    top: 0.45em;
+    width: 8px;
+    height: 8px;
     background: $warm;
     border-radius: 50%;
+    border: 2px solid $bg-cream;
   }
+}
+
+.cv-title {
+  font-weight: 700;
+  color: $navy;
+  font-size: 0.95em;
+  display: block;
+}
+
+.cv-detail {
+  color: $text-muted;
+  font-size: 0.88em;
+  display: block;
+
+  a {
+    color: $accent;
+  }
+}
+
+.cv-desc {
+  color: $text-muted;
+  font-size: 0.88em;
+  line-height: 1.65;
+  margin-top: 0.3em;
+  margin-bottom: 0;
+}
+
+/* Skills grid */
+.skills-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5em;
+  margin-top: 0.5em;
+
+  @media (max-width: 700px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.skill-category {
+  h3 {
+    font-size: 0.82em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: $navy;
+    margin-top: 0;
+    margin-bottom: 0.6em;
+    padding-bottom: 0.4em;
+    border-bottom: 2px solid $warm;
+    display: inline-block;
+  }
+}
+
+.skill-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+}
+
+.skill-tag {
+  display: inline-block;
+  padding: 0.3em 0.75em;
+  background: #edf2f7;
+  color: $navy;
+  font-size: 0.78em;
+  font-weight: 500;
+  border-radius: 20px;
+  border: 1px solid #e2e8f0;
+  transition: all 0.2s ease;
+
+  &:hover {
+    background: $navy;
+    color: #fff;
+    border-color: $navy;
+    transform: translateY(-1px);
+  }
+}
+
+.skill-tag.tag-native {
+  background: linear-gradient(135deg, $navy 0%, $navy-light 100%);
+  color: #fff;
+  border-color: $navy;
+}
+
+.skill-tag.tag-fluent {
+  background: $accent;
+  color: #fff;
+  border-color: $accent;
 }
 
 /* -------------------------------------------------------------------------

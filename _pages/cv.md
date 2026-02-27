@@ -8,126 +8,229 @@ title: "Curriculum Vitae"
 Education
 ======
 
-**Ph.D. in Economics** · Brown University · 2022
-{: .cv-entry}
+<div class="cv-item">
+<span class="cv-title">Ph.D. in Economics</span>
+<span class="cv-detail">Brown University · 2022</span>
+</div>
 
-**M.A. in Economics** · Brown University · 2019
-{: .cv-entry}
+<div class="cv-item">
+<span class="cv-title">M.A. in Economics</span>
+<span class="cv-detail">Brown University · 2019</span>
+</div>
 
-**M.A. in Economics of Public Policy** · Barcelona School of Economics · 2016
-{: .cv-entry}
+<div class="cv-item">
+<span class="cv-title">M.A. in Economics of Public Policy</span>
+<span class="cv-detail">Barcelona School of Economics · 2016</span>
+</div>
 
-**M.A. in Urban Economics** · Universidad Torcuato Di Tella · 2015
-{: .cv-entry}
+<div class="cv-item">
+<span class="cv-title">M.A. in Urban Economics</span>
+<span class="cv-detail">Universidad Torcuato Di Tella · 2015</span>
+</div>
 
-**B.S. in Economics** · Universidad de la República, Uruguay · 2012
-{: .cv-entry}
+<div class="cv-item">
+<span class="cv-title">B.S. in Economics</span>
+<span class="cv-detail">Universidad de la República, Uruguay · 2012</span>
+</div>
 
 Experience
 ======
 
-**Senior Economist** · Amazon, EU Prime & Marketing Science · 2025 – Present
-{: .cv-entry}
+<div class="cv-item">
+<span class="cv-title">Senior Economist</span>
+<span class="cv-detail">Amazon, EU Prime & Marketing Science · 2025 – Present</span>
+<p class="cv-desc">Optimizing marketing, Prime, and speed initiatives across the EU using applied econometrics, causal inference, and machine learning.</p>
+</div>
 
-Optimizing marketing, Prime, and speed initiatives across the EU using applied econometrics, causal inference, and machine learning.
+<div class="cv-item">
+<span class="cv-title">Senior Economist</span>
+<span class="cv-detail">Amazon, Pharmacy Economics · 2024 – 2025</span>
+<p class="cv-desc">Led optimization of the email marketing channel using ML and experimentation. Modeled the customer journey through data, economics, and machine learning. Promoted to Senior Economist in Spring 2025.</p>
+</div>
 
-**Senior Economist** · Amazon, Pharmacy Economics · 2024 – 2025
-{: .cv-entry}
+<div class="cv-item">
+<span class="cv-title">Economist I & II</span>
+<span class="cv-detail">Amazon, Pharmacy Economics · 2022 – 2023</span>
+<p class="cv-desc">Time series forecasting and ML, pricing policy simulation and causal evaluation, A/B test design and implementation. Promoted to Economist II in Summer 2023.</p>
+</div>
 
-Led optimization of the email marketing channel using ML and experimentation. Modeled the customer journey through data, economics, and machine learning. Promoted to Senior Economist in Spring 2025.
+<div class="cv-item">
+<span class="cv-title">Economist</span>
+<span class="cv-detail">Amazon, AWS Central Economics · Summer 2022</span>
+<p class="cv-desc">Nearest neighbor matching, synthetic control methods, and industrial organization research in cloud computing.</p>
+</div>
 
-**Economist I & II** · Amazon, Pharmacy Economics · 2022 – 2023
-{: .cv-entry}
-
-Time series forecasting and ML, pricing policy simulation and causal evaluation, A/B test design and implementation. Promoted to Economist II in Summer 2023.
-
-**Economist** · Amazon, AWS Central Economics · Summer 2022
-{: .cv-entry}
-
-Nearest neighbor matching, synthetic control methods, and industrial organization research in cloud computing.
-
-**Intern Economist** · Amazon, AWS Central Economics · Summer 2021
-{: .cv-entry}
-
-Two research projects in cloud computing using forecasting, IO, causal inference, and machine learning.
+<div class="cv-item">
+<span class="cv-title">Intern Economist</span>
+<span class="cv-detail">Amazon, AWS Central Economics · Summer 2021</span>
+<p class="cv-desc">Two research projects in cloud computing using forecasting, IO, causal inference, and machine learning.</p>
+</div>
 
 Research Experience
 ======
 
-**Research Assistant** · UChicago Booth School of Business · 2020 – 2021
-{: .cv-entry}
+<div class="cv-item">
+<span class="cv-title">Research Assistant</span>
+<span class="cv-detail">UChicago Booth School of Business · 2020 – 2021</span>
+<p class="cv-desc">Warehousing, cleaning, and analyzing massive mobile phone spatial data. Supervisors: Milena Almagro, Juan Camilo Castillo, and Tobias Salz.</p>
+</div>
 
-Warehousing, cleaning, and analyzing massive mobile phone spatial data. Supervisors: Milena Almagro, Juan Camilo Castillo, and Tobias Salz.
+<div class="cv-item">
+<span class="cv-title">Research Assistant</span>
+<span class="cv-detail">Brown University · Fall 2020</span>
+<p class="cv-desc">Causal inference analysis of Pay Transparency policies on wages and employment. Published in <a href="https://doi.org/10.3982/ECTA19788">Econometrica, 2023</a>. Supervisors: Bobby Pakzad-Hurson and Zoe Cullen.</p>
+</div>
 
-**Research Assistant** · Brown University · Fall 2020
-{: .cv-entry}
+<div class="cv-item">
+<span class="cv-title">Research Assistant → Coauthor</span>
+<span class="cv-detail">Brown University · 2019 – 2021</span>
+<p class="cv-desc">Employer-employee data analysis from Chile's pension system studying equal pay law effects on the gender wage gap. Published in <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20230832">AER, 2026</a>. Supervisors: Bobby Pakzad-Hurson and Fuhito Kojima.</p>
+</div>
 
-Causal inference analysis of Pay Transparency policies on wages and employment. Published in [Econometrica, 2023](https://doi.org/10.3982/ECTA19788). Supervisors: Bobby Pakzad-Hurson and Zoe Cullen.
+<div class="cv-item">
+<span class="cv-title">Full-time Research Assistant</span>
+<span class="cv-detail">Brown University & RIPL · 2016 – 2018</span>
+<p class="cv-desc">Maintained and analyzed a database with 6+ billion supermarket transactions for <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20170866">"How are SNAP benefits spent?"</a> (AER). Supervisors: Jesse Shapiro and Justine Hastings.</p>
+</div>
 
-**Research Assistant → Coauthor** · Brown University · 2019 – 2021
-{: .cv-entry}
+<div class="cv-item">
+<span class="cv-title">Consultant</span>
+<span class="cv-detail">Instituto de Vivienda de Buenos Aires & <a href="https://www.utdt.edu/ver_contenido.php?id_contenido=10061&id_item_menu=15810">CIPUV</a> · Fall 2014</span>
+<p class="cv-desc">Advised the Buenos Aires social housing authority on rent subsidy programs and slum relocation policy.</p>
+</div>
 
-Employer-employee data analysis from Chile's pension system studying equal pay law effects on the gender wage gap. Published in [AER, 2026](https://www.aeaweb.org/articles?id=10.1257/aer.20230832). Supervisors: Bobby Pakzad-Hurson and Fuhito Kojima.
-
-**Full-time Research Assistant** · Brown University & RIPL · 2016 – 2018
-{: .cv-entry}
-
-Maintained and analyzed a database with 6+ billion supermarket transactions for ["How are SNAP benefits spent?"](https://www.aeaweb.org/articles?id=10.1257/aer.20170866) (AER). Supervisors: Jesse Shapiro and Justine Hastings.
-
-**Consultant** · Instituto de Vivienda de Buenos Aires & [CIPUV](https://www.utdt.edu/ver_contenido.php?id_contenido=10061&id_item_menu=15810) · Fall 2014
-{: .cv-entry}
-
-Advised the Buenos Aires social housing authority on rent subsidy programs and slum relocation policy.
-
-**Research Intern** · Urbanistes du Monde · Summer 2014
-{: .cv-entry}
-
-Authored a [research report](https://drive.google.com/file/d/112Iprn4kNDdO5DCwvZXNosGHrQhc_vBh/view?usp=sharing) on the port-city interface in Buenos Aires.
+<div class="cv-item">
+<span class="cv-title">Research Intern</span>
+<span class="cv-detail">Urbanistes du Monde · Summer 2014</span>
+<p class="cv-desc">Authored a <a href="https://drive.google.com/file/d/112Iprn4kNDdO5DCwvZXNosGHrQhc_vBh/view?usp=sharing">research report</a> on the port-city interface in Buenos Aires.</p>
+</div>
 
 Teaching
 ======
 
-**Pre-college Lecturer** · Brown University · Summers 2020 & 2021
-{: .cv-entry}
+<div class="cv-item">
+<span class="cv-title">Pre-college Lecturer</span>
+<span class="cv-detail">Brown University · Summers 2020 & 2021</span>
+<p class="cv-desc">Game Theory and Behavioral Economics</p>
+</div>
 
-Game Theory and Behavioral Economics
+<div class="cv-item">
+<span class="cv-title">Teaching Assistant</span>
+<span class="cv-detail">Brown University · Fall 2021</span>
+<p class="cv-desc">Essential Mathematics for Economics</p>
+</div>
 
-**Teaching Assistant** · Brown University · Fall 2021
-{: .cv-entry}
-
-Essential Mathematics for Economics
-
-**Undergraduate TA** · Universidad Torcuato Di Tella · 2013 – 2014
-{: .cv-entry}
-
-Mathematics I & II, Microeconomics I, Macroeconomics I
+<div class="cv-item">
+<span class="cv-title">Undergraduate TA</span>
+<span class="cv-detail">Universidad Torcuato Di Tella · 2013 – 2014</span>
+<p class="cv-desc">Mathematics I & II, Microeconomics I, Macroeconomics I</p>
+</div>
 
 Skills
 ======
 
-**Programming & Data:** R · Python · Stata · SQL · Amazon Redshift · ArcGIS · QGIS
-{: .cv-entry}
+<div class="skills-grid">
 
-**Tools:** Git/GitHub · JIRA · LaTeX
-{: .cv-entry}
+<div class="skill-category">
+<h3>Programming & Data</h3>
+<div class="skill-tags">
+<span class="skill-tag">R</span>
+<span class="skill-tag">Python</span>
+<span class="skill-tag">Stata</span>
+<span class="skill-tag">SQL</span>
+<span class="skill-tag">Spark / PySpark</span>
+</div>
+</div>
 
-**Languages:** Spanish (native) · English (fluent) · French · Portuguese · Italian · Catalan
-{: .cv-entry}
+<div class="skill-category">
+<h3>Econometrics & Causal Inference</h3>
+<div class="skill-tags">
+<span class="skill-tag">Difference-in-Differences</span>
+<span class="skill-tag">Instrumental Variables</span>
+<span class="skill-tag">Regression Discontinuity</span>
+<span class="skill-tag">Synthetic Control</span>
+<span class="skill-tag">Matching Methods</span>
+<span class="skill-tag">Structural Estimation</span>
+</div>
+</div>
+
+<div class="skill-category">
+<h3>Machine Learning & AI</h3>
+<div class="skill-tags">
+<span class="skill-tag">Causal ML / EconML</span>
+<span class="skill-tag">Double ML</span>
+<span class="skill-tag">Causal Forests</span>
+<span class="skill-tag">XGBoost / LightGBM</span>
+<span class="skill-tag">Time Series Forecasting</span>
+<span class="skill-tag">A/B Testing & Experimentation</span>
+<span class="skill-tag">scikit-learn</span>
+<span class="skill-tag">LLMs & Prompt Engineering</span>
+</div>
+</div>
+
+<div class="skill-category">
+<h3>Cloud & Infrastructure</h3>
+<div class="skill-tags">
+<span class="skill-tag">AWS Redshift</span>
+<span class="skill-tag">AWS SageMaker</span>
+<span class="skill-tag">AWS EMR</span>
+<span class="skill-tag">AWS Athena</span>
+<span class="skill-tag">AWS S3</span>
+</div>
+</div>
+
+<div class="skill-category">
+<h3>Geospatial</h3>
+<div class="skill-tags">
+<span class="skill-tag">ArcGIS</span>
+<span class="skill-tag">QGIS</span>
+<span class="skill-tag">GeoPandas</span>
+</div>
+</div>
+
+<div class="skill-category">
+<h3>Tools</h3>
+<div class="skill-tags">
+<span class="skill-tag">Git / GitHub</span>
+<span class="skill-tag">JIRA</span>
+<span class="skill-tag">LaTeX</span>
+</div>
+</div>
+
+<div class="skill-category">
+<h3>Languages</h3>
+<div class="skill-tags">
+<span class="skill-tag tag-native">Spanish (native)</span>
+<span class="skill-tag tag-fluent">English (fluent)</span>
+<span class="skill-tag">French</span>
+<span class="skill-tag">Portuguese</span>
+<span class="skill-tag">Italian</span>
+<span class="skill-tag">Catalan</span>
+</div>
+</div>
+
+</div>
 
 Service
 ======
 
-🏆 Intramural Soccer Champion with "Random Walk" · Brown Economics · 2019
-{: .cv-entry}
+<div class="cv-item">
+<span class="cv-title">🏆 Intramural Soccer Champion with "Random Walk"</span>
+<span class="cv-detail">Brown Economics · 2019</span>
+</div>
 
-Volunteer, food pantry Comedor de Barrancas El Gomero · Buenos Aires · 2013
-{: .cv-entry}
+<div class="cv-item">
+<span class="cv-detail">Volunteer, food pantry Comedor de Barrancas El Gomero · Buenos Aires · 2013</span>
+</div>
 
-Homework tutoring for children in Villa 31 informal settlement · Buenos Aires · 2014
-{: .cv-entry}
+<div class="cv-item">
+<span class="cv-detail">Homework tutoring for children in Villa 31 informal settlement · Buenos Aires · 2014</span>
+</div>
 
-Housing construction volunteer · TECHO · Montevideo · 2011
-{: .cv-entry}
+<div class="cv-item">
+<span class="cv-detail">Housing construction volunteer · TECHO · Montevideo · 2011</span>
+</div>
 
-Student representative · FEUU UDELAR · Montevideo · 2010 – 2011
-{: .cv-entry}
+<div class="cv-item">
+<span class="cv-detail">Student representative · FEUU UDELAR · Montevideo · 2010 – 2011</span>
+</div>
