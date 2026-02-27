@@ -539,6 +539,24 @@ details p {
   border-color: $accent;
 }
 
+.skill-tag.tag-advanced {
+  background: #2f855a;
+  color: #fff;
+  border-color: #2f855a;
+}
+
+.skill-tag.tag-intermediate {
+  background: #d69e2e;
+  color: #fff;
+  border-color: #d69e2e;
+}
+
+.skill-tag.tag-basic {
+  background: #a0aec0;
+  color: #fff;
+  border-color: #a0aec0;
+}
+
 /* -------------------------------------------------------------------------
    Footer
    ------------------------------------------------------------------------- */

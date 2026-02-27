@@ -202,16 +202,16 @@ Skills
 <div class="skill-tags">
 <span class="skill-tag tag-native">Spanish (native)</span>
 <span class="skill-tag tag-fluent">English (fluent)</span>
-<span class="skill-tag">French</span>
-<span class="skill-tag">Portuguese</span>
-<span class="skill-tag">Italian</span>
-<span class="skill-tag">Catalan</span>
+<span class="skill-tag tag-advanced">Catalan (B2)</span>
+<span class="skill-tag tag-intermediate">French (B1)</span>
+<span class="skill-tag tag-basic">Italian (A2)</span>
+<span class="skill-tag tag-basic">Portuguese (A2)</span>
 </div>
 </div>
 
 </div>
 
-Service
+Community & Other
 ======
 
 <div class="cv-item">
