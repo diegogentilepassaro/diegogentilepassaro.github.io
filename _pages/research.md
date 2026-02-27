@@ -42,6 +42,7 @@ Joint with Gabriele Borg and Santiago Hermo
 {: .pub-authors}
 
 [Draft](https://arxiv.org/abs/2208.01791){: .pub-link-btn}
+[Code](https://github.com/diegogentilepassaro/min_wage_rent){: .pub-link-btn}
 
 <details>
 <summary>Abstract</summary>
@@ -57,7 +58,8 @@ The recent rise of sub-national minimum wage (MW) policies in the US has resulte
 Joint with Jose Belmar
 {: .pub-authors}
 
-[Draft](https://scioteca.caf.com/handle/123456789/1714){: .pub-link-btn} — New draft coming soon!
+[Draft](https://scioteca.caf.com/handle/123456789/1714){: .pub-link-btn}
+[Code](https://github.com/diegogentilepassaro/Train){: .pub-link-btn} — New draft coming soon!
 
 <details>
 <summary>Abstract</summary>
@@ -74,6 +76,7 @@ Joint with Catalina Ravizza
 {: .pub-authors}
 
 [Draft](https://drive.google.com/file/d/1n74zRfJVd3OtY9mRKxCgyCjDJBkj5lb2/view?usp=sharing){: .pub-link-btn}
+[Code](https://github.com/diegogentilepassaro/Aborto-Uruguay){: .pub-link-btn}
 
 <details>
 <summary>Abstract</summary>
