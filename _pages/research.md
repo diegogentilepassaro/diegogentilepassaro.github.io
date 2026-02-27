@@ -4,17 +4,41 @@ permalink: /research/
 author_profile: TRUE
 ---
 
-<p class="research-note">For published work, see <a href="/publications/">Publications</a>.</p>
+Publications
+======
+
+**Equal Pay for *Similar* Work**
+
+American Economic Review, Vol. 116, No. 3, March 2026
+
+Diego Gentile Passaro, Fuhito Kojima, and Bobak Pakzad-Hurson
+
+🏆 [Best Paper Award](https://eaamo.org/awards/) at ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO)
+
+[AER Article](https://www.aeaweb.org/articles?id=10.1257/aer.20230832){: .pub-link-btn} 
+[Working Paper](https://arxiv.org/pdf/2306.17111.pdf){: .pub-link-btn} 
+[Replication Package](https://doi.org/10.3886/E237824V1){: .pub-link-btn} 
+[Online Appendix](https://www.aeaweb.org/articles/materials/247261){: .pub-link-btn}
+
+<details>
+<summary>Abstract</summary>
+Equal pay laws increasingly require that workers doing "similar" work are paid equal wages within firm. We study such "equal pay for similar work" (EPSW) policies theoretically and test our model's predictions empirically using evidence from a 2009 Chilean EPSW. When EPSW only binds across protected class (e.g., no woman can be paid less than any similar man, and vice versa), firms segregate their workforce by gender. When there are more men than women in a labor market, EPSW increases the gender wage gap. By contrast, EPSW that is not based on protected class can decrease the gender wage gap.
+</details>
+
+![EPL](/images/epl.png){: .research-img}
+
+<br>
 
 Working Papers
 ======
 
-## From Workplace to Residence: The Spillover Effects of Minimum Wage Policies on Local Housing Markets <span class="paper-status">Submitted</span>
-**(Joint with Gabriele Borg and Santiago Hermo)** 
+**From Workplace to Residence: The Spillover Effects of Minimum Wage Policies on Local Housing Markets** <span class="paper-status">Submitted</span>
 
-**Draft [here](https://arxiv.org/abs/2208.01791)**
+(Joint with Gabriele Borg and Santiago Hermo) 
 
-![MW Rent](/images/mw_rent.png)
+Draft [here](https://arxiv.org/abs/2208.01791)
+
+![MW Rent](/images/mw_rent.png){: .research-img}
 
 <details>
 <summary>Abstract</summary>
@@ -23,12 +47,13 @@ The recent rise of sub-national minimum wage (MW) policies in the US has resulte
 
 <br>
 
-## Bimodal Transport Infrastructure and Regional Development: Evidence from Argentina, 1960 – 1991
-**(Joint with Jose Belmar)** 
+**Bimodal Transport Infrastructure and Regional Development: Evidence from Argentina, 1960 – 1991**
 
-**Draft [here](https://scioteca.caf.com/handle/123456789/1714).** **New draft coming soon!**
+(Joint with Jose Belmar) 
 
-![Trains](/images/trains.png)
+Draft [here](https://scioteca.caf.com/handle/123456789/1714). New draft coming soon!
+
+![Trains](/images/trains.png){: .research-img}
 
 <details>
 <summary>Abstract</summary>
@@ -37,12 +62,13 @@ We estimate the impact of railroad and road infrastructure on local economic dev
 
 <br>
 
-## The Effects of Access to Safe Abortion Methods on Women's Mortality, Fertility, Employment, and Birth Outcomes
-**(Joint with Catalina Ravizza)** 
+**The Effects of Access to Safe Abortion Methods on Women's Mortality, Fertility, Employment, and Birth Outcomes**
 
-**Draft [here](https://drive.google.com/file/d/1n74zRfJVd3OtY9mRKxCgyCjDJBkj5lb2/view?usp=sharing)**
+(Joint with Catalina Ravizza) 
 
-![AbortUru](/images/abortion.png)
+Draft [here](https://drive.google.com/file/d/1n74zRfJVd3OtY9mRKxCgyCjDJBkj5lb2/view?usp=sharing)
+
+![AbortUru](/images/abortion.png){: .research-img}
 
 <details>
 <summary>Abstract</summary>
@@ -54,8 +80,9 @@ Using data from Uruguay, this paper investigates the impacts of the path to the 
 Work in Progress
 ======
 
-## The Effect of Underrepresented Students' Success on Younger Students' Outcomes 
-**(Joint with Santiago Hermo and Diego Verdugo)**
+**The Effect of Underrepresented Students' Success on Younger Students' Outcomes** 
+
+(Joint with Santiago Hermo and Diego Verdugo)
 
 <details>
 <summary>Abstract</summary>
