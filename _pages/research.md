@@ -10,14 +10,18 @@ Publications
 **Equal Pay for *Similar* Work**
 
 American Economic Review, Vol. 116, No. 3, March 2026
+{: .pub-venue}
 
 Diego Gentile Passaro, Fuhito Kojima, and Bobak Pakzad-Hurson
+{: .pub-authors}
 
 🏆 [Best Paper Award](https://eaamo.org/awards/) at ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO)
+{: .pub-award-text}
 
-[AER Article](https://www.aeaweb.org/articles?id=10.1257/aer.20230832){: .pub-link-btn} 
-[Working Paper](https://arxiv.org/pdf/2306.17111.pdf){: .pub-link-btn} 
-[Replication Package](https://doi.org/10.3886/E237824V1){: .pub-link-btn} 
+[AER Article](https://www.aeaweb.org/articles?id=10.1257/aer.20230832){: .pub-link-btn}
+[Working Paper](https://arxiv.org/pdf/2306.17111.pdf){: .pub-link-btn}
+[Replication Package](https://doi.org/10.3886/E237824V1){: .pub-link-btn}
+[Code](https://github.com/diegogentilepassaro/epsw_replication){: .pub-link-btn}
 [Online Appendix](https://www.aeaweb.org/articles/materials/247261){: .pub-link-btn}
 
 <details>
@@ -25,7 +29,7 @@ Diego Gentile Passaro, Fuhito Kojima, and Bobak Pakzad-Hurson
 Equal pay laws increasingly require that workers doing "similar" work are paid equal wages within firm. We study such "equal pay for similar work" (EPSW) policies theoretically and test our model's predictions empirically using evidence from a 2009 Chilean EPSW. When EPSW only binds across protected class (e.g., no woman can be paid less than any similar man, and vice versa), firms segregate their workforce by gender. When there are more men than women in a labor market, EPSW increases the gender wage gap. By contrast, EPSW that is not based on protected class can decrease the gender wage gap.
 </details>
 
-![EPL](/images/epl.png){: .research-img}
+![Figure 1A: Dynamic Path of EPSW's Effect on Segregation](/images/figure1_panelA.png){: .research-img}
 
 <br>
 
@@ -34,46 +38,49 @@ Working Papers
 
 **From Workplace to Residence: The Spillover Effects of Minimum Wage Policies on Local Housing Markets** <span class="paper-status">Submitted</span>
 
-(Joint with Gabriele Borg and Santiago Hermo) 
+Joint with Gabriele Borg and Santiago Hermo
+{: .pub-authors}
 
-Draft [here](https://arxiv.org/abs/2208.01791)
-
-![MW Rent](/images/mw_rent.png){: .research-img}
+[Draft](https://arxiv.org/abs/2208.01791){: .pub-link-btn}
 
 <details>
 <summary>Abstract</summary>
 The recent rise of sub-national minimum wage (MW) policies in the US has resulted in significant dispersion of MW levels within metropolitan areas. In this paper, we study the effect of MW changes on local housing rental markets exploiting the placed-based nature of MW policies. For each location we define both the log MW where the average resident works (the "workplace MW") and the log MW in the location itself (the "residence MW"). We derive a partial-equilibrium model of a housing market in which MW levels in each location affect housing demand by changing the income of commuters and the prices of non-tradable consumption. The model shows that the workplace MW has a positive effect on rents whereas the residence MW has a negative effect. We construct a ZIP code by month panel using rents data from Zillow, and use a difference-in-differences design to estimate the effect of residence and workplace MW changes on median housing rents. Our baseline results imply that a 10 percent increase in the workplace MW and no change in the residence MW will increase rents by 0.69 percent (SE=0.29). If the residence MW also increases by 10 percent, then rents will increase by 0.47 percent (SE=0.16). We use our results to study the incidence of two counterfactual MW policies: a federal MW increase and a city MW increase. We estimate that landlords pocket 9.2 and 11.0 cents for every dollar increase in worker income in areas affected by these policies. However, the incidence varies systematically across space.
 </details>
 
+![MW Rent](/images/mw_rent.png){: .research-img}
+
 <br>
 
 **Bimodal Transport Infrastructure and Regional Development: Evidence from Argentina, 1960 – 1991**
 
-(Joint with Jose Belmar) 
+Joint with Jose Belmar
+{: .pub-authors}
 
-Draft [here](https://scioteca.caf.com/handle/123456789/1714). New draft coming soon!
-
-![Trains](/images/trains.png){: .research-img}
+[Draft](https://scioteca.caf.com/handle/123456789/1714){: .pub-link-btn} — New draft coming soon!
 
 <details>
 <summary>Abstract</summary>
 We estimate the impact of railroad and road infrastructure on local economic development through the study of massive transport infrastructure changes in Argentina. Following a World Bank study, 10,000 kilometers of railroads were closed and 18,000 kilometers of paved roads were built between 1960 and 1991. Our empirical strategy relies on instrumental variables that exploit a discontinuity in how experts chose railroad segments to be studied for closure and hypothetical networks connecting main cities. We show that conventional IV estimates can be misleading when omitting potential substitution of different transport modes. We find that dismantling railroads had a negative impact on population and industrial production, and shifted the distribution of labor away from agriculture. On the other hand, we find weak evidence of roads construction having a positive impact on the share of employment in manufacturing and non-tradable industries, but no impacts on total population nor industrial production.
 </details>
 
+![Trains](/images/trains.png){: .research-img}
+
 <br>
 
 **The Effects of Access to Safe Abortion Methods on Women's Mortality, Fertility, Employment, and Birth Outcomes**
 
-(Joint with Catalina Ravizza) 
+Joint with Catalina Ravizza
+{: .pub-authors}
 
-Draft [here](https://drive.google.com/file/d/1n74zRfJVd3OtY9mRKxCgyCjDJBkj5lb2/view?usp=sharing)
-
-![AbortUru](/images/abortion.png){: .research-img}
+[Draft](https://drive.google.com/file/d/1n74zRfJVd3OtY9mRKxCgyCjDJBkj5lb2/view?usp=sharing){: .pub-link-btn}
 
 <details>
 <summary>Abstract</summary>
 Using data from Uruguay, this paper investigates the impacts of the path to the legalization of abortion through a non-governmental health program that promoted safe abortion and provided counseling about contraception and pregnancy alternatives. We use a difference-in-difference design that exploits the timing and geographic variation in the expansion of the program. We show that around the time of the implementation of the program there was a strong decrease in maternal mortality and a slight decrease in fertility. We also analyze the effects on birth outcomes and employment. We find that access to safe abortion increased women's employment, and had a positive impact on birth outcomes, particularly on prenatal care. These findings suggest that, even without the legalization of abortion, the access to a safe and comprehensive abortion method can impact women's life choices.
 </details>
+
+![AbortUru](/images/abortion.png){: .research-img}
 
 <br>
 
@@ -82,7 +89,8 @@ Work in Progress
 
 **The Effect of Underrepresented Students' Success on Younger Students' Outcomes** 
 
-(Joint with Santiago Hermo and Diego Verdugo)
+Joint with Santiago Hermo and Diego Verdugo
+{: .pub-authors}
 
 <details>
 <summary>Abstract</summary>
