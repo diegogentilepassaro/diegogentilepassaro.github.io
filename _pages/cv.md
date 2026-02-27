@@ -201,7 +201,7 @@ Skills
 <h3>Languages</h3>
 <div class="skill-tags">
 <span class="skill-tag tag-native">Spanish (native)</span>
-<span class="skill-tag tag-fluent">English (fluent)</span>
+<span class="skill-tag tag-fluent">English (C2)</span>
 <span class="skill-tag tag-advanced">Catalan (B2)</span>
 <span class="skill-tag tag-intermediate">French (B1)</span>
 <span class="skill-tag tag-basic">Italian (A2)</span>
