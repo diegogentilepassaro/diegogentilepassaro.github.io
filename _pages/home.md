@@ -28,5 +28,5 @@ Joint with Fuhito Kojima and Bobby Pakzad-Hurson
 🏆 Best Paper Award — ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO)
 {: .featured-pub-award}
 
-[AER Article](https://www.aeaweb.org/articles?id=10.1257/aer.20230832) · [Working Paper](https://arxiv.org/pdf/2306.17111.pdf) · [Replication Package](https://doi.org/10.3886/E237824V1) · [Online Appendix](https://www.aeaweb.org/articles/materials/247261)
+[AER Article](https://www.aeaweb.org/articles?id=10.1257/aer.20230832) · [Working Paper](https://arxiv.org/pdf/2306.17111.pdf) · [Replication Package](https://doi.org/10.3886/E237824V1) · [Online Appendix](https://www.aeaweb.org/articles/materials/24726)
 {: .featured-pub-links}
