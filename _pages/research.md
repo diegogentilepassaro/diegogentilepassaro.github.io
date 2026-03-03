@@ -22,7 +22,7 @@ Diego Gentile Passaro, Fuhito Kojima, and Bobak Pakzad-Hurson
 [Working Paper](https://arxiv.org/pdf/2306.17111.pdf){: .pub-link-btn}
 [Replication Package](https://doi.org/10.3886/E237824V1){: .pub-link-btn}
 [Code](https://github.com/diegogentilepassaro/epsw_replication){: .pub-link-btn}
-[Online Appendix](https://www.aeaweb.org/content/file?id=24263){: .pub-link-btn}
+[Online Appendix](https://www.aeaweb.org/articles/materials/24726){: .pub-link-btn}
 
 <details>
 <summary>Abstract</summary>
